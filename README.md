@@ -1,5 +1,13 @@
 # VCodeAssessment
 
+## Dependencies
+Before running, ensure you have the following installed. 
+* Node
+* npm
+* Docker
+
+**Note:** I will not list the docker image here that needs to be started before or during the execution of the implementation.
+
 ## Run instructions
 1. Change your directory to where you want the repository to be cloned to.
 2. git clone https://github.com/cody-baith/VCodeAssessment.git
