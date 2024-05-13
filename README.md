@@ -1,9 +1,12 @@
 # VCodeAssessment
 
-Run instructions
-(1) Change your directory to where you want the repository to be cloned to. 
-(2) git clone https://github.com/cody-baith/VCodeAssessment.git
-(3) Change your directory to the repository's new directory. 
-(4) npm run start
+## Run instructions
+1. Change your directory to where you want the repository to be cloned to.
+2. git clone https://github.com/cody-baith/VCodeAssessment.git
+3. Change your directory to the repository's new directory.
+4. npm run start
 
-To exit, Ctrl+C as many times as it takes to get back to the command line. 
+
+To exit, Ctrl+C as many times as it takes to get back to the command line.
+
+_In loving memory of Kenny Watanabe._
